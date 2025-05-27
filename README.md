@@ -1,4 +1,4 @@
-# MEmoX - AI-Powered VS Code Assistant
+# MEmoX - AI-Powered Dev Assistant
 
 MEmoX is an AI-powered coding assistant for VS Code that provides intelligent code assistance through both offline and online modes. It's inspired by tools like Cursor and GitHub Copilot.
 
