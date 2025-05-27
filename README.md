@@ -1,6 +1,6 @@
 # MEmoX - AI-Powered VS Code Assistant
 
-DevPilot is an AI-powered coding assistant for VS Code that provides intelligent code assistance through both offline and online modes. It's inspired by tools like Cursor and GitHub Copilot.
+MEmoX is an AI-powered coding assistant for VS Code that provides intelligent code assistance through both offline and online modes. It's inspired by tools like Cursor and GitHub Copilot.
 
 ## Features
 
@@ -38,8 +38,8 @@ DevPilot is an AI-powered coding assistant for VS Code that provides intelligent
 
 The extension can be configured through VS Code settings:
 
-- `devpilot.mode`: Set operation mode (`auto`, `offline`, or `online`)
-- `devpilot.modelSize`: Choose model size (`auto`, `3B`, or `7B`)
+- `MEmoX.mode`: Set operation mode (`auto`, `offline`, or `online`)
+- `MEmoX.modelSize`: Choose model size (`auto`, `3B`, or `7B`)
 
 ## Development
 
