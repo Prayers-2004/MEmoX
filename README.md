@@ -11,8 +11,8 @@ MEmoX is an AI-powered coding assistant for VS Code that provides intelligent co
   - Provide contextual help
 
 - 🔄 **Dual Mode Operation**
-  - **Offline Mode**: Uses local CodeLLaMA models via Ollama
   - **Online Mode**: Uses Sonar API for internet-based assistance
+  - **Offline Mode**: Uses local CodeLLaMA models via Ollama
 
 - 📚 **Code Understanding**
   - Semantic code search using HNSWlib
